@@ -1,0 +1,12 @@
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\bin\Debug\net7.0\Core.CrossCuttingConserns.deps.json
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\bin\Debug\net7.0\Core.CrossCuttingConserns.dll
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\bin\Debug\net7.0\Core.CrossCuttingConserns.pdb
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.AssemblyInfoInputs.cache
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.AssemblyInfo.cs
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.dll
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\refint\Core.CrossCuttingConserns.dll
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.pdb
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\ref\Core.CrossCuttingConserns.dll
+C:\Users\ibrahim\source\repos\CleanArchitecture\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConserns\obj\Debug\net7.0\Core.CrossCuttingConserns.csproj.AssemblyReference.cache

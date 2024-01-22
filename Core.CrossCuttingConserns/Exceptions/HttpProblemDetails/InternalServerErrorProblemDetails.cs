@@ -1,0 +1,17 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+
+namespace Core.CrossCuttingConserns.Exceptions.HttpProblemDetails
+{
+    public class InternalServerErrorProblemDetails : ProblemDetails
+    {
+        public InternalServerErrorProblemDetails(string detail)
+        {
+            Title = "Internal Server Error";
+            Detail = detail;
+            Status = StatusCodes.Status500InternalServerError;
+            Type = "http://example.com/probs/internal";
+
+        }
+    }
+}
